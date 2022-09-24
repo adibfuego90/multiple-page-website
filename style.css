@@ -197,9 +197,13 @@ footer{
     text-decoration: none;
     color:white;
 
+
+    
+
 }
 .footer-secondItem p{
     margin-bottom: 10px;
+    cursor: pointer;
 
 }
 .footer-thirdItem div{
